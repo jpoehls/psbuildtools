@@ -7,5 +7,17 @@ Hopefully I'll get around to cleaning this up and organizing it better some day.
 
 Also, you should be using [psake](http://github.com/psake/psake) for all of your builds.
 
+## What's here
+There are all kinds of helpers here, including but not limited to:
+
+* Assembly versioning
+* Web application builds and deployments
+* ClickOnce builds and deployments
+* XML configuration
+* TeamCity unit test running
+* Zip files and backups
+* Starting and stopping IIS sites
+
+
 ## License
 Do what you want with it.
